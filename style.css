@@ -1,0 +1,8 @@
+div._idGenObjectLayout-1 {
+	display: none !important;
+} 
+
+body{
+	-epub-writing-mode: unset !important;
+	direction: rtl !important;
+}
